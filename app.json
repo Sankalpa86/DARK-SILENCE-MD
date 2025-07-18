@@ -1,6 +1,6 @@
 {
   "name": "DARK-SILENCE-MD",
-  "description": "JAVASCRIPT WHATSAPP BOT PROJECT POWERD BY SILENTLOVER432 ♥️",
+  "description": "JAVASCRIPT WHATSAPP BOT PROJECT POWERD BY SOBIABUTT ♥️",
   "logo": "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
   "keywords": ["bot"],
   "success_url": "/",
@@ -14,7 +14,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://files.catbox.moe/9vg76j"
+      "value": "https://telegra.ph/file/2a06381b260c3f096a612.jpg"
     }, 
     
     "ALIVE_MSG": {
@@ -110,7 +110,7 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐒𝐈𝐋𝐄𝐍𝐓𝐋𝐎𝐕𝐄𝐑432"
+      "value": "𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐒𝐎𝐁𝐈𝐀•𝐁𝐔𝐓𝐓🦋🤍"
     }, 
     
     "STATUS_REPLY": {
@@ -158,13 +158,13 @@
     "OWNER_NUMBER": {
       "description": "replace it with your own number.",
       "required": false,
-      "value": "923096287432"
+      "value": "923251869133"
     }, 
 
     "OWNER_NAME": {
       "description": "replace it with your own name.",
       "required": false,
-      "value": "➺ѕเℓεɳƭ_ℓσѵε૨࿐"
+      "value": "➺𝑺𝑶𝑩𝑰𝑨•𝑩𝑼𝑻𝑻🦋🤍࿐"
      },
 
     "INBOX_BLOCK": {
